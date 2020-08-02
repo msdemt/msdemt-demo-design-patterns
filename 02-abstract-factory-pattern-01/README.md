@@ -1,0 +1,1 @@
+使用 if else 方式实现接入两个Redis集群（EGM、IIR）

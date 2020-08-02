@@ -1,0 +1,1 @@
+使用RedisUtils工具类操作单个redis，业务增加需求，接入两个Redis集群（EGM, IIR），该怎么实现呢？
